@@ -1,0 +1,4 @@
+﻿Tạo thư mục server theo đường dẫn: D:\BTL\Server
+	để lưu dữ liệu khi client gửi lên server
+Start Server và Start Client
+
